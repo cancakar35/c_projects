@@ -2,6 +2,12 @@
 #include <stdlib.h>
 #include <conio.h>
 
+/*
+    instagram.com/cancakar35
+    
+    4 basamaklı en fazla bölene sahip en büyük sayı
+*/
+
 int main()
 {
     int maks;
