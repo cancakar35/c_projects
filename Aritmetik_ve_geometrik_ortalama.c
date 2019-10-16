@@ -15,7 +15,7 @@ int main()
     tek_adet = 0.0;
     tek_carpim = 1;
     cift_toplam = 0;
-    for(int i=0; i < 4; i++)
+    for(int i=0; i < 4; i++) // Kullanıcıdan alınacak sayı adedini arttırmak için i < 4 ifadesini değiştirebiliriz.
     {
         printf("Sayi gir: ");
         scanf(" %d", &sayi);
