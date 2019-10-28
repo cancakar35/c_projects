@@ -3,9 +3,7 @@
 
 int main()
 {
-    // CAN CAKAR
-    // Kullanicidan alinan sayinin faktoriyelini hesaplayan program odevi
-    printf("FAKTORIYEL HESAP PROGRAMI BY CAN CAKAR\n");
+    printf("FAKTORIYEL HESAP PROGRAMI\n");
     int factorial = 1;
     while (1)
     {
