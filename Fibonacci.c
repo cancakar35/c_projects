@@ -4,8 +4,6 @@
 
 int main()
 {
-    // Can Cakar Fibonacci serisi odevi
-
     int fbn_uzn;
     printf("FIBONACCI SERISI\n");
     printf("Uzunluk gir: ");
